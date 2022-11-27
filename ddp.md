@@ -1,14 +1,5 @@
-# Добрый день!
-
-## Введение в MARKDOWN
-### Шрифт 
-#### *Курсив*  
-#### **Жирный**  
-#### ***Жирный курсив***  
-### Список 
-1. Первый пункт
-2. Второй пункт
-3. Третий пункт
+# `I wish you a beaver and happiness in your home!`
+---
 ## Introduction to MARKDOWN
 ### List 
 1. The first paragraph
@@ -19,5 +10,4 @@
 #### **Bold**  
 #### ***Bold Italic type***
 -----
-"Должно было быть нижнее подчеркиваение"  
-`Подчеркивание имеется` 
+This is my favorite file.
