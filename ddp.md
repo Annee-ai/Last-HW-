@@ -10,4 +10,5 @@
 #### **Bold**  
 #### ***Bold Italic type***
 -----
-This is my favorite file.
+# This is my favorite file.  
+`Можно ли слить второстепенные ветки, не касаясь master?`
